@@ -1,0 +1,13 @@
+[
+    {
+        "filetype": 0,
+        "free-format": false,
+        "path": "main.cbl",
+        "run": {
+            "arguments": [],
+            "environment-variables": {},
+            "external-terminal": false
+        },
+        "standard": "default"
+    }
+]
