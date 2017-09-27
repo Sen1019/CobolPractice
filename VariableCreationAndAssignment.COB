@@ -12,7 +12,6 @@
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
            SET ten TO 10.
-           DISPLAY "X(10)"
            DISPLAY ten UPON Console
            STOP RUN.
        END PROGRAM YOUR-PROGRAM-NAME.
